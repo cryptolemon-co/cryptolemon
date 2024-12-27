@@ -1,5 +1,5 @@
 # Cryptolemon 项目 🍋
-
+[**>>>>>English **](https://github.com/cryptolemon-co/cryptolemon/blob/main/README.md)
 ## 我们是什么  
 Cryptolemon 是一个专注于 Web3 和区块链生态的创新工具平台，致力于为代币发行方、市场运营者和加密项目团队提供高效的自动化工具。我们的目标是通过简化代币开盘、市场推广和市值管理等操作流程，让更多项目方轻松实现代币的流通与曝光。  
 

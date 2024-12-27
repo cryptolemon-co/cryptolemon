@@ -1,5 +1,5 @@
 # Cryptolemon Project 🍋  
-[**>>>>>中文说明**](https://github.com/cryptolemon-co/cryptolemon/README_CN.md)
+[**>>>>>中文说明**](https://github.com/cryptolemon-co/cryptolemon/blob/main/README_CN.md)
 ## What We Are  
 Cryptolemon is an innovative tool platform dedicated to the Web3 and blockchain ecosystem. We aim to provide efficient automated tools for token issuers, market operators, and crypto project teams. Our mission is to simplify processes like token launches, market promotion, and value management, enabling project teams to achieve token liquidity and visibility effortlessly.  
 
